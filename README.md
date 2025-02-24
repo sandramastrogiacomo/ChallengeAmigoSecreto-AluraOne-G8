@@ -2,30 +2,31 @@
 Bem-vindo ao projeto Amigo Secreto! Desenvolvido como parte da formação "Iniciante em Programação" 🖥️, oferecida pelo programa Oracle Next Education (ONE), em parceria com a Alura, este é um aplicativo simples e interativo para sortear pares de amigos secretos. Ele permite adicionar nomes, realizar o sorteio e exibir os resultados de forma clara e organizada, utilizando tecnologias como HTML, CSS e JavaScript.
 
 Funcionalidades ✨
-Adicionar Amigos:
 
-Insira o nome de um amigo no campo de texto e clique em "Adicionar".
+1 - Adicionar Amigos:
 
-O nome será adicionado à lista de participantes.
+-Insira o nome de um amigo no campo de texto e clique em "Adicionar".
 
-Nomes duplicados ou inválidos são bloqueados.
+-O nome será adicionado à lista de participantes.
 
-Sortear Amigos Secretos:
+-Nomes duplicados ou inválidos são bloqueados.
 
-Clique em "Sortear Amigo" para embaralhar a lista e gerar os pares.
+2 - Sortear Amigos Secretos:
 
-É necessário ter pelo menos dois nomes na lista para realizar o sorteio.
+-Clique em "Sortear Amigo" para embaralhar a lista e gerar os pares.
 
-Mostrar Resultados:
+-É necessário ter pelo menos dois nomes na lista para realizar o sorteio.
 
-Após o sorteio, clique em "Mostrar Resultados" para ver quem tirou quem.
+3 - Mostrar Resultados:
 
-Os pares são exibidos em uma lista clara e organizada.
+-Após o sorteio, clique em "Mostrar Resultados" para ver quem tirou quem.
 
-Reiniciar o Jogo:
+-Os pares são exibidos em uma lista clara e organizada.
 
-Clique em "Reiniciar Sorteio" para limpar a lista de nomes e resultados.
+4 - Reiniciar o Jogo:
 
-Uma confirmação é solicitada antes de reiniciar.
+-Clique em "Reiniciar Sorteio" para limpar a lista de nomes e resultados.
 
-Desafio do Amigo Secreto do Iniciante em Programação G8 - ONE
+-Uma confirmação é solicitada antes de reiniciar.
+
+D
