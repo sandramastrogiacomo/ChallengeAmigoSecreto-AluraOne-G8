@@ -68,7 +68,7 @@ Tecnologias Utilizadas 💻
 
 Como Executar o Projeto 🛠️
 
--Clone o repositório: git clone https://github.com/seu-usuario/amigo-secreto.git
+-Clone o repositório: git clone 
 
 -Abra o arquivo index.html no seu navegador.
 
