@@ -1,4 +1,5 @@
 ChallengeAmigoSecreto-AluraOne-G8 🎁
+
 Bem-vindo ao projeto Amigo Secreto! Desenvolvido como parte da formação "Iniciante em Programação" 🖥️, oferecida pelo programa Oracle Next Education (ONE), em parceria com a Alura, este é um aplicativo simples e interativo para sortear pares de amigos secretos. Ele permite adicionar nomes, realizar o sorteio e exibir os resultados de forma clara e organizada, utilizando tecnologias como HTML, CSS e JavaScript.
 
 Funcionalidades ✨
